@@ -2820,8 +2820,8 @@ function createtime() {
   let currentTimeHtml = "";
   (currentTimeHtml =
     hnum < 18 && hnum >= 9
-      ? `<br> <div style="font-size:13px;font-weight:bold">本站已经运行了 ${dnum} 天 ${hnum} 小时 ${mnum} 分 ${snum} 秒 <i id="heartbeat" ></i> <br> </div>`
-      : `<br> <div style="font-size:13px;font-weight:bold">本站已经运行了 ${dnum} 天 ${hnum} 小时 ${mnum} 分 ${snum} 秒 <i id="heartbeat" ></i> <br> </div>`),
+      ? `<br> <div style="font-size:13px;font-weight:bold">本站已经运行了 ${dnum} 天 ${hnum} 小时 ${mnum} 分 ${snum} 秒 <i id="heartbeat" ></i></div>`
+      : `<br> <div style="font-size:13px;font-weight:bold">本站已经运行了 ${dnum} 天 ${hnum} 小时 ${mnum} 分 ${snum} 秒 <i id="heartbeat" ></i></div>`),
     document.getElementById("workboard") &&
     (document.getElementById("workboard").innerHTML = currentTimeHtml);
 }
@@ -3192,8 +3192,8 @@ if (localStorage.getItem("blogbg") != undefined) {
   document.getElementById("defineBg").innerText = `:root{
     --default-bg: url(https://bu.dusays.com/2023/02/27/63fc5c740ddd6.png);
     --darkmode-bg:url(https://bu.dusays.com/2023/02/27/63fc5ce23223a.png);
-    --mobileday-bg: url(https://bu.dusays.com/2023/02/27/63fc5d09bf046.png);
-    --mobilenight-bg: url(https://bu.dusays.com/2023/02/27/63fc5cccb4697.png);
+    --mobileday-bg: url(https://bu.dusays.com/2023/02/27/63fc5c740ddd6.png);
+    --mobilenight-bg: url(https://bu.dusays.com/2023/02/27/63fc5ce23223a.png);
   }`;
 }
 // 切换背景主函数
