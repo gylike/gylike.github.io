@@ -8476,7 +8476,7 @@ li.categoryBar-list-item {
     width: 0;
 } */
 
-.neko {
+/* .neko {
   width: 64px;
   height: 64px;
   position: absolute;
@@ -8521,10 +8521,10 @@ li.categoryBar-list-item {
 
 .neko.fontColor::after {
   color: #333;
-}
+} */
 
 /* 小猫咪手机端消失 */
-@media screen and (max-width: 768px) {
+/* @media screen and (max-width: 768px) {
   .neko,
   #myscoll {
     display: none !important;
@@ -8563,7 +8563,7 @@ li.categoryBar-list-item {
   to {
     background-position: 0 50%;
   }
-}
+} */
 
 /* By Fomalhaut版权大小 */
 .copyright {
