@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://gylike.github.io/personal/about/index.html</loc>
+    
+    <lastmod>2023-03-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://gylike.github.io/box/nav/index.html</loc>
     
     <lastmod>2023-03-06</lastmod>
@@ -155,7 +164,7 @@
   </url>
   
   <url>
-    <loc>https://gylike.github.io/life/movies/index.html</loc>
+    <loc>https://gylike.github.io/site/census/index.html</loc>
     
     <lastmod>2023-03-01</lastmod>
     
@@ -164,7 +173,7 @@
   </url>
   
   <url>
-    <loc>https://gylike.github.io/personal/about/index.html</loc>
+    <loc>https://gylike.github.io/life/movies/index.html</loc>
     
     <lastmod>2023-03-01</lastmod>
     
@@ -183,15 +192,6 @@
   
   <url>
     <loc>https://gylike.github.io/social/fcircle/index.html</loc>
-    
-    <lastmod>2023-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://gylike.github.io/site/census/index.html</loc>
     
     <lastmod>2023-03-01</lastmod>
     
@@ -234,20 +234,6 @@
   </url>
   
   <url>
-    <loc>https://gylike.github.io/tags/Python/</loc>
-    <lastmod>2023-03-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://gylike.github.io/tags/%E4%BA%BA%E8%84%B8%E8%AF%86%E5%88%AB/</loc>
-    <lastmod>2023-03-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://gylike.github.io/tags/Markdown/</loc>
     <lastmod>2023-03-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -256,6 +242,20 @@
   
   <url>
     <loc>https://gylike.github.io/tags/%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE/</loc>
+    <lastmod>2023-03-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://gylike.github.io/tags/Python/</loc>
+    <lastmod>2023-03-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://gylike.github.io/tags/%E4%BA%BA%E8%84%B8%E8%AF%86%E5%88%AB/</loc>
     <lastmod>2023-03-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -271,14 +271,14 @@
   </url>
   
   <url>
-    <loc>https://gylike.github.io/categories/%E9%A1%B9%E7%9B%AE/</loc>
+    <loc>https://gylike.github.io/categories/%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2023-03-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://gylike.github.io/categories/%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/</loc>
+    <loc>https://gylike.github.io/categories/%E9%A1%B9%E7%9B%AE/</loc>
     <lastmod>2023-03-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
