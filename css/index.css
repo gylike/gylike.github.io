@@ -8086,7 +8086,7 @@ a:hover {
 }
 
 /* 帧率检测 */
-#fps {
+/* #fps {
   position: fixed;
   left: 10px;
   bottom: 10px;
@@ -8103,7 +8103,7 @@ a:hover {
   backdrop-filter: var(--backdrop-filter);
   padding: 4px;
   border-radius: 4px;
-}
+} */
 
 /* 侧边栏 */
 div#rightside {
