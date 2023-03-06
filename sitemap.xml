@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://gylike.github.io/box/nav/index.html</loc>
+    
+    <lastmod>2023-03-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://gylike.github.io/ghcard/index.html</loc>
+    
+    <lastmod>2023-03-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://gylike.github.io/site/charts/index.html</loc>
+    
+    <lastmod>2023-03-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://gylike.github.io/site/time/index.html</loc>
+    
+    <lastmod>2023-03-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://gylike.github.io/box/gallery/background2/index.html</loc>
     
     <lastmod>2023-03-06</lastmod>
@@ -74,16 +110,7 @@
   </url>
   
   <url>
-    <loc>https://gylike.github.io/site/time/index.html</loc>
-    
-    <lastmod>2023-03-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://gylike.github.io/categories/index.html</loc>
+    <loc>https://gylike.github.io/manifest.json</loc>
     
     <lastmod>2023-03-01</lastmod>
     
@@ -92,7 +119,7 @@
   </url>
   
   <url>
-    <loc>https://gylike.github.io/manifest.json</loc>
+    <loc>https://gylike.github.io/categories/index.html</loc>
     
     <lastmod>2023-03-01</lastmod>
     
@@ -119,15 +146,6 @@
   </url>
   
   <url>
-    <loc>https://gylike.github.io/box/nav/index.html</loc>
-    
-    <lastmod>2023-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://gylike.github.io/life/games/index.html</loc>
     
     <lastmod>2023-03-01</lastmod>
@@ -138,15 +156,6 @@
   
   <url>
     <loc>https://gylike.github.io/life/movies/index.html</loc>
-    
-    <lastmod>2023-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://gylike.github.io/site/census/index.html</loc>
     
     <lastmod>2023-03-01</lastmod>
     
@@ -173,7 +182,7 @@
   </url>
   
   <url>
-    <loc>https://gylike.github.io/social/link/index.html</loc>
+    <loc>https://gylike.github.io/social/fcircle/index.html</loc>
     
     <lastmod>2023-03-01</lastmod>
     
@@ -182,7 +191,16 @@
   </url>
   
   <url>
-    <loc>https://gylike.github.io/social/fcircle/index.html</loc>
+    <loc>https://gylike.github.io/site/census/index.html</loc>
+    
+    <lastmod>2023-03-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://gylike.github.io/social/link/index.html</loc>
     
     <lastmod>2023-03-01</lastmod>
     
@@ -194,15 +212,6 @@
     <loc>https://gylike.github.io/posts/2013454d.html</loc>
     
     <lastmod>2022-10-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://gylike.github.io/site/echarts/index.html</loc>
-    
-    <lastmod>2022-09-10</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
