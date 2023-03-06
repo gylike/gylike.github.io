@@ -1337,18 +1337,18 @@ function share() {
 //----------------------------------------------------------------
 
 /* 搜索框修复 start */
-searchSize();
-window.addEventListener('resize', searchSize)
-// 搜索窗口自适应
-function searchSize() {
-  // 只需要适应手机端
-  if (document.body.clientWidth > 768) return
-  let div = document.querySelector('#algolia-hits')
-  // 监听插入，如果有插入则根据可视高度动态设置最大高度
-  div.addEventListener('DOMNodeInserted', () => {
-    div.children[0].style.maxHeight = (document.documentElement.clientHeight - 210) + 'px'
-  })
-}
+// searchSize();
+// window.addEventListener('resize', searchSize)
+// // 搜索窗口自适应
+// function searchSize() {
+//   // 只需要适应手机端
+//   if (document.body.clientWidth > 768) return
+//   let div = document.querySelector('#algolia-hits')
+//   // 监听插入，如果有插入则根据可视高度动态设置最大高度
+//   div.addEventListener('DOMNodeInserted', () => {
+//     div.children[0].style.maxHeight = (document.documentElement.clientHeight - 210) + 'px'
+//   })
+// }
 /* 搜索框修复 ennd */
 
 //----------------------------------------------------------------
@@ -3192,8 +3192,8 @@ if (localStorage.getItem("blogbg") != undefined) {
   document.getElementById("defineBg").innerText = `:root{
     --default-bg: url(https://bu.dusays.com/2023/02/27/63fc5c740ddd6.png);
     --darkmode-bg:url(https://bu.dusays.com/2023/02/27/63fc5ce23223a.png);
-    --mobileday-bg: url(https://bu.dusays.com/2023/02/27/63fc5c740ddd6.png);
-    --mobilenight-bg: url(https://bu.dusays.com/2023/02/27/63fc5ce23223a.png);
+    --mobileday-bg: url(https://bu.dusays.com/2023/03/06/64058a23d0924.jpg);
+    --mobilenight-bg: url(https://bu.dusays.com/2023/03/06/6405897908648.webp);
   }`;
 }
 // 切换背景主函数
@@ -3423,7 +3423,7 @@ function createWinbox() {
 <h3>1. 二次元</h3>
 <details class="folding-tag" cyan><summary> 查看二次元背景 </summary>
               <div class='content'>
-              <div class="bgbox"><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://lskypro.acozycotage.net/Fomalhaut/img/home_bg.webp)" class="imgbox" onclick="changeBg('url(https://lskypro.acozycotage.net/Fomalhaut/img/home_bg.webp)')"></a></div>
+              <div class="bgbox"><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://bu.dusays.com/2023/03/06/640586a5ca915.webp)" class="imgbox" onclick="changeBg('url(https://bu.dusays.com/2023/03/06/640586a5ca915.webp)')"></a></div>
               </div>
             </details>
 
@@ -3432,7 +3432,7 @@ function createWinbox() {
 
 <details class="folding-tag" cyan><summary> 查看风景背景 </summary>
               <div class='content'>
-              <div class="bgbox"><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://lskypro.acozycotage.net/Fomalhaut/img/fj1.webp)" class="imgbox" onclick="changeBg('url(https://lskypro.acozycotage.net/Fomalhaut/img/fj1.webp)')"></a></div>
+              <div class="bgbox"><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://bu.dusays.com/2023/03/06/6405886b1fb1c.png)" class="imgbox" onclick="changeBg('url(https://bu.dusays.com/2023/03/06/6405886b1fb1c.png)')"></a></div>
               </div>
             </details>
 
@@ -3440,7 +3440,7 @@ function createWinbox() {
 
 <details class="folding-tag" cyan><summary> 查看萌宠背景 </summary>
               <div class='content'>
-              <div class="bgbox"><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://lskypro.acozycotage.net/Fomalhaut/img/mc1.webp)" class="imgbox" onclick="changeBg('url(https://lskypro.acozycotage.net/Fomalhaut/img/mc1.webp)')"></a></div>
+              <div class="bgbox"><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://bu.dusays.com/2023/03/06/640588db91a0e.png)" class="imgbox" onclick="changeBg('url(https://bu.dusays.com/2023/03/06/640588db91a0e.png)')"></a></div>
               </div>
             </details>
 
@@ -3464,7 +3464,7 @@ function createWinbox() {
 <h3>6. 适配手机</h3>
 <details class="folding-tag" cyan><summary> 查看适配手机的背景 </summary>
               <div class='content'>
-              <div class="bgbox"><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://lskypro.acozycotage.net/Fomalhaut/img/mb4.webp)" class="pimgbox" onclick="changeBg('url(https://lskypro.acozycotage.net/Fomalhaut/img/mb4.webp)')"></a></div>
+              <div class="bgbox"><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://bu.dusays.com/2023/03/06/6405897908648.webp)" class="pimgbox" onclick="changeBg('url(https://bu.dusays.com/2023/03/06/6405897908648.webp)')"></a></div>
               </div>
             </details>
 
